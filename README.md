@@ -1,10 +1,10 @@
 # Multi-Container Runtime with Kernel Memory Monitor
 
 ## Team Information
-- Name 1: Harshit Chandak
-- SRN 1: PES2UG24CS185
-- Name 2: Hamza Shabbir Sahapurwala
-- SRN 2: PES2UG24CS177
+- Name 1: Chiranthan Shankar
+- SRN 1: PES2UG24CS137
+- Name 2: Chris Khushnam
+- SRN 2: PES2UG24CS139
 
 ## Environment
 - Ubuntu 22.04 or 24.04 VM
